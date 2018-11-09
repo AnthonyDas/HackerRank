@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Problem Solving">
+      <UniqueIdentifier>{1b4574d8-0572-425f-baaa-8b5f84b4fa06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Problem Solving\Algorithms">
+      <UniqueIdentifier>{2ed4c9d3-0cc2-4955-af29-65ebb132cc3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Problem Solving\Algorithms\Warmup">
+      <UniqueIdentifier>{5a63bbf7-8cca-47d8-9c34-f5c052af57cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Problem Solving\Data Structures">
+      <UniqueIdentifier>{a1aa0d3d-2af2-4ddd-9d75-1c3e30f41b2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Problem Solving\Data Structures\Arrays">
+      <UniqueIdentifier>{8e2a46a9-5eff-4066-bc63-318532118348}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Warmup</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Warmup\Birthday Cake Candles.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Warmup</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Warmup\Compare the Triplets.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Warmup</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Warmup\Diagonal Difference.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Warmup</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Warmup\Mini-Max Sum.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Warmup</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Warmup\Plus Minus.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Warmup</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Warmup\Simple Array Sum.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Warmup</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Warmup\Solve Me First.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Warmup</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Warmup\Staircase.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Warmup</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Warmup\Time Conversion.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Warmup</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Arrays\2D Array - DS.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Arrays\Array Manipulation.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Arrays\Arrays - DS.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Arrays\Dynamic Array.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Arrays\Left Rotation.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Arrays\Sparse Arrays.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Arrays</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
