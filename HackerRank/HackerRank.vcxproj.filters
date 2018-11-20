@@ -34,6 +34,12 @@
     <Filter Include="Source Files\Interview Preparation Kit\Linked Lists">
       <UniqueIdentifier>{6c022fd0-1ff7-4864-8415-af17fdeb6a0d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Interview Preparation Kit\Warm-up Challenges">
+      <UniqueIdentifier>{e42e6792-6652-4a5c-ba29-5e0a55ce7931}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Interview Preparation Kit\Arrays">
+      <UniqueIdentifier>{eb8aacbb-1c39-4e70-b0cb-7aae02eca9e8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp">
@@ -98,6 +104,30 @@
     </ClCompile>
     <ClCompile Include="Interview Preparation Kit\Linked Lists\Reverse a doubly linked list.cpp">
       <Filter>Source Files\Interview Preparation Kit\Linked Lists</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Warm-up Challenges\Counting Valleys.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Warm-up Challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Warm-up Challenges\Jumping on the Clouds.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Warm-up Challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Warm-up Challenges\Repeated String.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Warm-up Challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Warm-up Challenges\Sock Merchant.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Warm-up Challenges</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Arrays\2D Array - DS.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Arrays\Arrays - Left Rotation.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Arrays\New Year Chaos.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Arrays\Array Manipulation.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Arrays</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
