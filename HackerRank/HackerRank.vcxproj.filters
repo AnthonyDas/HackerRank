@@ -129,5 +129,8 @@
     <ClCompile Include="Interview Preparation Kit\Arrays\Array Manipulation.cpp">
       <Filter>Source Files\Interview Preparation Kit\Arrays</Filter>
     </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Arrays\Minimum Swaps 2.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Arrays</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

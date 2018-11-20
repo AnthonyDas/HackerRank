@@ -118,6 +118,7 @@
     <ClCompile Include="Interview Preparation Kit\Arrays\2D Array - DS.cpp" />
     <ClCompile Include="Interview Preparation Kit\Arrays\Array Manipulation.cpp" />
     <ClCompile Include="Interview Preparation Kit\Arrays\Arrays - Left Rotation.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Arrays\Minimum Swaps 2.cpp" />
     <ClCompile Include="Interview Preparation Kit\Arrays\New Year Chaos.cpp" />
     <ClCompile Include="Interview Preparation Kit\Linked Lists\Find Merge Point of Two Lists.cpp" />
     <ClCompile Include="Interview Preparation Kit\Linked Lists\Insert a node at a specific position in a linked list.cpp" />
