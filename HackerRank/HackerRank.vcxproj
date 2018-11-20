@@ -115,6 +115,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Interview Preparation Kit\Linked Lists\Find Merge Point of Two Lists.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Linked Lists\Insert a node at a specific position in a linked list.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Linked Lists\Inserting a Node Into a Sorted Doubly Linked List.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Linked Lists\Linked Lists - Detect a Cycle.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Linked Lists\Reverse a doubly linked list.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Warmup\Birthday Cake Candles.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Warmup\Compare the Triplets.cpp" />

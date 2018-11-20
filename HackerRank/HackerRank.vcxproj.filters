@@ -28,6 +28,12 @@
     <Filter Include="Source Files\Problem Solving\Data Structures\Arrays">
       <UniqueIdentifier>{8e2a46a9-5eff-4066-bc63-318532118348}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Interview Preparation Kit">
+      <UniqueIdentifier>{585f6ce8-826f-40f2-97f8-242da134d274}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Interview Preparation Kit\Linked Lists">
+      <UniqueIdentifier>{6c022fd0-1ff7-4864-8415-af17fdeb6a0d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp">
@@ -77,6 +83,21 @@
     </ClCompile>
     <ClCompile Include="Problem Solving\Data Structures\Arrays\Sparse Arrays.cpp">
       <Filter>Source Files\Problem Solving\Data Structures\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Linked Lists\Find Merge Point of Two Lists.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Linked Lists</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Linked Lists\Insert a node at a specific position in a linked list.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Linked Lists</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Linked Lists\Inserting a Node Into a Sorted Doubly Linked List.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Linked Lists</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Linked Lists\Linked Lists - Detect a Cycle.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Linked Lists</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Linked Lists\Reverse a doubly linked list.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Linked Lists</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
