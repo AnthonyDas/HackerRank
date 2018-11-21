@@ -40,6 +40,15 @@
     <Filter Include="Source Files\Interview Preparation Kit\Arrays">
       <UniqueIdentifier>{eb8aacbb-1c39-4e70-b0cb-7aae02eca9e8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Interview Preparation Kit\Greedy Algorithms">
+      <UniqueIdentifier>{5babeab4-965c-4ede-bb33-aaa29fb8266a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Interview Preparation Kit\String Manipulation">
+      <UniqueIdentifier>{a1ecf50f-794e-48d7-b852-aa4c14c4a0f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Interview Preparation Kit\Sorting">
+      <UniqueIdentifier>{b2737be7-a57f-4d81-afd6-4075592f33a8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp">
@@ -131,6 +140,51 @@
     </ClCompile>
     <ClCompile Include="Interview Preparation Kit\Arrays\Minimum Swaps 2.cpp">
       <Filter>Source Files\Interview Preparation Kit\Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Greedy Algorithms\Minimum Absolute Difference in an Array.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Greedy Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Greedy Algorithms\Luck Balance.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Greedy Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Greedy Algorithms\Greedy Florist.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Greedy Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Greedy Algorithms\Max Min.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Greedy Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Greedy Algorithms\Reverse Shuffle Merge.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Greedy Algorithms</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\String Manipulation\Strings - Making Anagrams.cpp">
+      <Filter>Source Files\Interview Preparation Kit\String Manipulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\String Manipulation\Alternating Characters.cpp">
+      <Filter>Source Files\Interview Preparation Kit\String Manipulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\String Manipulation\Sherlock and the Valid String.cpp">
+      <Filter>Source Files\Interview Preparation Kit\String Manipulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\String Manipulation\Special Palindrome Again.cpp">
+      <Filter>Source Files\Interview Preparation Kit\String Manipulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\String Manipulation\Common Child.cpp">
+      <Filter>Source Files\Interview Preparation Kit\String Manipulation</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Sorting\Sorting - Bubble Sort.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Sorting\Mark and Toys.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Sorting\Sorting - Comparator.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Sorting\Fraudulent Activity Notifications.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Sorting\Merge Sort - Counting Inversions.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Sorting</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
