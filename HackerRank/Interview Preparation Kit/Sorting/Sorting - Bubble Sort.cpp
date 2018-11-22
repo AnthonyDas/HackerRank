@@ -1,12 +1,6 @@
 #include <vector>
 #include <iostream>
-
-
-void swap(int &lhs, int &rhs) {
-	const int temp = lhs;
-	lhs = rhs;
-	rhs = temp;
-}
+#include "swap.h"
 
 // Complete the countSwaps function below.
 void countSwaps(std::vector<int> a) {

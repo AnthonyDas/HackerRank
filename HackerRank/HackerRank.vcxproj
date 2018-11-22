@@ -76,6 +76,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\AnthonyDas\Documents\GitHub\HackerRank\HackerRank;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -120,6 +121,15 @@
     <ClCompile Include="Interview Preparation Kit\Arrays\Arrays - Left Rotation.cpp" />
     <ClCompile Include="Interview Preparation Kit\Arrays\Minimum Swaps 2.cpp" />
     <ClCompile Include="Interview Preparation Kit\Arrays\New Year Chaos.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Dictionaries and Hashmaps\Count Triplets.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Dictionaries and Hashmaps\Frequency Queries.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Dictionaries and Hashmaps\Hash Tables - Ransom Note.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Dictionaries and Hashmaps\Sherlock and Anagrams.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Dictionaries and Hashmaps\Two Strings.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Dynamic Programming\Abbreviation.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Dynamic Programming\Candies.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Dynamic Programming\Decibinary Numbers.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Dynamic Programming\Max Array Sum.cpp" />
     <ClCompile Include="Interview Preparation Kit\Greedy Algorithms\Greedy Florist.cpp" />
     <ClCompile Include="Interview Preparation Kit\Greedy Algorithms\Luck Balance.cpp" />
     <ClCompile Include="Interview Preparation Kit\Greedy Algorithms\Max Min.cpp" />
@@ -130,6 +140,11 @@
     <ClCompile Include="Interview Preparation Kit\Linked Lists\Inserting a Node Into a Sorted Doubly Linked List.cpp" />
     <ClCompile Include="Interview Preparation Kit\Linked Lists\Linked Lists - Detect a Cycle.cpp" />
     <ClCompile Include="Interview Preparation Kit\Linked Lists\Reverse a doubly linked list.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Recursion and Backtracking\Crossword Puzzle.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Recursion and Backtracking\Recursion - Davis%27 Staircase.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Recursion and Backtracking\Recursion - Fibonacci Numbers.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Recursion and Backtracking\Recursive Digit Sum.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Search\Hash Tables - Ice Cream Parlor.cpp" />
     <ClCompile Include="Interview Preparation Kit\Sorting\Fraudulent Activity Notifications.cpp" />
     <ClCompile Include="Interview Preparation Kit\Sorting\Mark and Toys.cpp" />
     <ClCompile Include="Interview Preparation Kit\Sorting\Merge Sort - Counting Inversions.cpp" />
@@ -140,10 +155,15 @@
     <ClCompile Include="Interview Preparation Kit\String Manipulation\Sherlock and the Valid String.cpp" />
     <ClCompile Include="Interview Preparation Kit\String Manipulation\Special Palindrome Again.cpp" />
     <ClCompile Include="Interview Preparation Kit\String Manipulation\Strings - Making Anagrams.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Trees\Binary Search Tree - Lowest Common Ancestor.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Trees\Tree - Height of a Binary Tree.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Trees\Tree - Huffman Decoding .cpp" />
+    <ClCompile Include="Interview Preparation Kit\Trees\Trees - Is This a Binary Search Tree.cpp" />
     <ClCompile Include="Interview Preparation Kit\Warm-up Challenges\Counting Valleys.cpp" />
     <ClCompile Include="Interview Preparation Kit\Warm-up Challenges\Jumping on the Clouds.cpp" />
     <ClCompile Include="Interview Preparation Kit\Warm-up Challenges\Repeated String.cpp" />
     <ClCompile Include="Interview Preparation Kit\Warm-up Challenges\Sock Merchant.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Warmup\Birthday Cake Candles.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Warmup\Compare the Triplets.cpp" />
@@ -160,6 +180,9 @@
     <ClCompile Include="Problem Solving\Data Structures\Arrays\Dynamic Array.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Arrays\Left Rotation.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Arrays\Sparse Arrays.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -49,6 +49,24 @@
     <Filter Include="Source Files\Interview Preparation Kit\Sorting">
       <UniqueIdentifier>{b2737be7-a57f-4d81-afd6-4075592f33a8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Interview Preparation Kit\Recursion and Backtracking">
+      <UniqueIdentifier>{b31ff43c-8f99-4746-88ea-0f6c40ab6558}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Interview Preparation Kit\Trees">
+      <UniqueIdentifier>{cc196e8d-c5d8-4646-a40c-2a147632a496}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Interview Preparation Kit\Dictionaries and Hashmaps">
+      <UniqueIdentifier>{f3424e2d-ee70-414b-9a96-2a53dee5b4fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Interview Preparation Kit\Stacks and Queues">
+      <UniqueIdentifier>{cde13ae4-bb2f-4b17-b84b-a7f297d7c095}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Interview Preparation Kit\Search">
+      <UniqueIdentifier>{b643d1b7-0517-4a94-884c-665abaa923e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Interview Preparation Kit\Dynamic Programming">
+      <UniqueIdentifier>{aa5794fd-7de5-47df-bcbc-5dfc9c07e875}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp">
@@ -186,5 +204,67 @@
     <ClCompile Include="Interview Preparation Kit\Sorting\Merge Sort - Counting Inversions.cpp">
       <Filter>Source Files\Interview Preparation Kit\Sorting</Filter>
     </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Recursion and Backtracking\Recursion - Davis%27 Staircase.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Recursion and Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Recursion and Backtracking\Recursion - Fibonacci Numbers.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Recursion and Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Recursion and Backtracking\Recursive Digit Sum.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Recursion and Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Recursion and Backtracking\Crossword Puzzle.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Recursion and Backtracking</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Trees\Tree - Height of a Binary Tree.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Trees\Binary Search Tree - Lowest Common Ancestor.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Trees\Trees - Is This a Binary Search Tree.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Trees\Tree - Huffman Decoding .cpp">
+      <Filter>Source Files\Interview Preparation Kit\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Dictionaries and Hashmaps\Two Strings.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Dictionaries and Hashmaps</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Dictionaries and Hashmaps\Count Triplets.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Dictionaries and Hashmaps</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Dictionaries and Hashmaps\Sherlock and Anagrams.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Dictionaries and Hashmaps</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Search\Hash Tables - Ice Cream Parlor.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Dynamic Programming\Candies.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Dynamic Programming</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Dynamic Programming\Decibinary Numbers.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Dynamic Programming</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Dynamic Programming\Abbreviation.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Dynamic Programming</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Dynamic Programming\Max Array Sum.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Dynamic Programming</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Dictionaries and Hashmaps\Hash Tables - Ransom Note.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Dictionaries and Hashmaps</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Dictionaries and Hashmaps\Frequency Queries.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Dictionaries and Hashmaps</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
