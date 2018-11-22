@@ -14,7 +14,7 @@ class DoublyLinkedListNode {
 
 
 // Complete the sortedInsert function below.
-DoublyLinkedListNode* sortedInsert(DoublyLinkedListNode* head, int data) {
+DoublyLinkedListNode* sortedInsert(DoublyLinkedListNode* head, const int &data) {
 	DoublyLinkedListNode* inserted = new DoublyLinkedListNode(data);
 
 	if (head == nullptr) {
@@ -29,7 +29,7 @@ DoublyLinkedListNode* sortedInsert(DoublyLinkedListNode* head, int data) {
 		return inserted;
 	}
 
-	DoublyLinkedListNode* node = head, *prv;
+	DoublyLinkedListNode* node = head, *prv = nullptr;
 	while (node != nullptr && node->data < inserted->data) {
 		prv = node;
 		node = node->next;

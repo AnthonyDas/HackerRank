@@ -15,11 +15,7 @@ public:
 
 // Complete the reverse function below.
 DoublyLinkedListNode* reverse(DoublyLinkedListNode* head) {
-	if (head == nullptr) {
-		return nullptr;
-	}
-
-	DoublyLinkedListNode* res;
+	DoublyLinkedListNode* res = nullptr;
 	while (head != nullptr) {
 		DoublyLinkedListNode* temp = head->prev;
 
