@@ -67,6 +67,15 @@
     <Filter Include="Source Files\Interview Preparation Kit\Dynamic Programming">
       <UniqueIdentifier>{aa5794fd-7de5-47df-bcbc-5dfc9c07e875}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Problem Solving\Data Structures\Trees">
+      <UniqueIdentifier>{77b6b892-ac73-48b3-8845-27f6d0a16d35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tutorials">
+      <UniqueIdentifier>{7a882d26-bb3d-42bb-9540-a2d10ad41934}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tutorials\30 Days of Code">
+      <UniqueIdentifier>{45cee42c-8525-4326-b4d0-1a0bf026ef74}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp">
@@ -261,9 +270,57 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Stacks and Queues\Balanced Brackets.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Stacks and Queues</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Stacks and Queues\Castle on the Grid.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Stacks and Queues</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Stacks and Queues\Largest Rectangle.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Stacks and Queues</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Stacks and Queues\Queues - A Tale of Two Stacks.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Stacks and Queues</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Stacks and Queues\Min Max Riddle.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Stacks and Queues</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Search\Minimum Time Required.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Search</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Trees\Tree - Inorder Traversal.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Trees\Tree - Preorder Traversal.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Trees\Tree - Postorder Traversal.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Tutorials\30 Days of Code\Day 23 BST Level-Order Traversal.cpp">
+      <Filter>Source Files\Tutorials\30 Days of Code</Filter>
+    </ClCompile>
+    <ClCompile Include="Tutorials\30 Days of Code\Day 22 Binary Search Trees.cpp">
+      <Filter>Source Files\Tutorials\30 Days of Code</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Trees\Tree - Level Order Traversal.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Trees\Binary Search Tree - Insertion.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Trees\Tree - Top View.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Trees\Is This a Binary Search Tree.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Trees</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

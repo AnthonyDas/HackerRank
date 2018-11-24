@@ -145,11 +145,17 @@
     <ClCompile Include="Interview Preparation Kit\Recursion and Backtracking\Recursion - Fibonacci Numbers.cpp" />
     <ClCompile Include="Interview Preparation Kit\Recursion and Backtracking\Recursive Digit Sum.cpp" />
     <ClCompile Include="Interview Preparation Kit\Search\Hash Tables - Ice Cream Parlor.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Search\Minimum Time Required.cpp" />
     <ClCompile Include="Interview Preparation Kit\Sorting\Fraudulent Activity Notifications.cpp" />
     <ClCompile Include="Interview Preparation Kit\Sorting\Mark and Toys.cpp" />
     <ClCompile Include="Interview Preparation Kit\Sorting\Merge Sort - Counting Inversions.cpp" />
     <ClCompile Include="Interview Preparation Kit\Sorting\Sorting - Bubble Sort.cpp" />
     <ClCompile Include="Interview Preparation Kit\Sorting\Sorting - Comparator.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Stacks and Queues\Balanced Brackets.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Stacks and Queues\Castle on the Grid.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Stacks and Queues\Largest Rectangle.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Stacks and Queues\Min Max Riddle.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Stacks and Queues\Queues - A Tale of Two Stacks.cpp" />
     <ClCompile Include="Interview Preparation Kit\String Manipulation\Alternating Characters.cpp" />
     <ClCompile Include="Interview Preparation Kit\String Manipulation\Common Child.cpp" />
     <ClCompile Include="Interview Preparation Kit\String Manipulation\Sherlock and the Valid String.cpp" />
@@ -180,8 +186,18 @@
     <ClCompile Include="Problem Solving\Data Structures\Arrays\Dynamic Array.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Arrays\Left Rotation.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Arrays\Sparse Arrays.cpp" />
+    <ClCompile Include="Problem Solving\Data Structures\Trees\Binary Search Tree - Insertion.cpp" />
+    <ClCompile Include="Problem Solving\Data Structures\Trees\Is This a Binary Search Tree.cpp" />
+    <ClCompile Include="Problem Solving\Data Structures\Trees\Tree - Inorder Traversal.cpp" />
+    <ClCompile Include="Problem Solving\Data Structures\Trees\Tree - Level Order Traversal.cpp" />
+    <ClCompile Include="Problem Solving\Data Structures\Trees\Tree - Postorder Traversal.cpp" />
+    <ClCompile Include="Problem Solving\Data Structures\Trees\Tree - Preorder Traversal.cpp" />
+    <ClCompile Include="Problem Solving\Data Structures\Trees\Tree - Top View.cpp" />
+    <ClCompile Include="Tutorials\30 Days of Code\Day 22 Binary Search Trees.cpp" />
+    <ClCompile Include="Tutorials\30 Days of Code\Day 23 BST Level-Order Traversal.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Node.h" />
     <ClInclude Include="swap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
