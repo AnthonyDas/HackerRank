@@ -186,17 +186,25 @@
     <ClCompile Include="Problem Solving\Data Structures\Arrays\Dynamic Array.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Arrays\Left Rotation.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Arrays\Sparse Arrays.cpp" />
+    <ClCompile Include="Problem Solving\Data Structures\Heap\QHEAP1.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Trees\Binary Search Tree - Insertion.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Trees\Is This a Binary Search Tree.cpp" />
+    <ClCompile Include="Problem Solving\Data Structures\Trees\Swap Nodes [Algo].cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Trees\Tree - Inorder Traversal.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Trees\Tree - Level Order Traversal.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Trees\Tree - Postorder Traversal.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Trees\Tree - Preorder Traversal.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Trees\Tree - Top View.cpp" />
+    <ClCompile Include="SQL\Aggregation.cpp" />
+    <ClCompile Include="SQL\Basic Join.cpp" />
+    <ClCompile Include="SQL\Basic Select.cpp" />
+    <ClCompile Include="SQL\Revision.cpp" />
     <ClCompile Include="Tutorials\30 Days of Code\Day 22 Binary Search Trees.cpp" />
     <ClCompile Include="Tutorials\30 Days of Code\Day 23 BST Level-Order Traversal.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="MaxBinaryHeap.h" />
+    <ClInclude Include="MinBinaryHeap.h" />
     <ClInclude Include="Node.h" />
     <ClInclude Include="swap.h" />
   </ItemGroup>

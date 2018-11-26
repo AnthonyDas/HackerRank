@@ -76,6 +76,12 @@
     <Filter Include="Source Files\Tutorials\30 Days of Code">
       <UniqueIdentifier>{45cee42c-8525-4326-b4d0-1a0bf026ef74}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Problem Solving\Data Structures\Heap">
+      <UniqueIdentifier>{17222781-459b-46c0-8871-67bf85a5587d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SQL">
+      <UniqueIdentifier>{020bae2d-8e92-41c8-9256-283e3bde3696}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp">
@@ -315,12 +321,36 @@
     <ClCompile Include="Problem Solving\Data Structures\Trees\Is This a Binary Search Tree.cpp">
       <Filter>Source Files\Problem Solving\Data Structures\Trees</Filter>
     </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Trees\Swap Nodes [Algo].cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Heap\QHEAP1.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Heap</Filter>
+    </ClCompile>
+    <ClCompile Include="SQL\Basic Select.cpp">
+      <Filter>Source Files\SQL</Filter>
+    </ClCompile>
+    <ClCompile Include="SQL\Revision.cpp">
+      <Filter>Source Files\SQL</Filter>
+    </ClCompile>
+    <ClCompile Include="SQL\Aggregation.cpp">
+      <Filter>Source Files\SQL</Filter>
+    </ClCompile>
+    <ClCompile Include="SQL\Basic Join.cpp">
+      <Filter>Source Files\SQL</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MaxBinaryHeap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MinBinaryHeap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
