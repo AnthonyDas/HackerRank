@@ -48,4 +48,8 @@ select round(abs(min(LAT_N) - max(LAT_N)) + abs(min(LONG_W) - max(LONG_W)),4) fr
 Weather Observation Station 19
 select round(sqrt(POW(min(LAT_N) - max(LAT_N),2) + POW(min(LONG_W) - max(LONG_W),2)),4) from STATION;
 
+Weather Observation Station 20
+Select round(s.LAT_N, 4) from Station s where
+(select count(LAT_N) from Station where LAT_N < s.LAT_N ) = (select count(LAT_N) from Station where LAT_N > s.LAT_N)
+
 */
