@@ -45,8 +45,13 @@ or c_count in
 order by c_count desc, h.hacker_id;
 
 Contest Leaderboard
-
-
-
+select h.hacker_id, h.name, sum(scores.max_score) as total from hackers h
+inner join
+	(select hacker_id, challenge_id, max(score) as max_score from submissions
+	group by hacker_id, challenge_id) scores
+on h.hacker_id = scores.hacker_id
+group by h.hacker_id, h.name
+having total > 0
+order by total desc, h.hacker_id asc;
 
 */
