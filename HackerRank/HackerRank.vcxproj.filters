@@ -82,6 +82,9 @@
     <Filter Include="Source Files\SQL">
       <UniqueIdentifier>{020bae2d-8e92-41c8-9256-283e3bde3696}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Interview Preparation Kit\Graphs">
+      <UniqueIdentifier>{2bb88ef9-61f8-4a26-add9-ead81fd4d03e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp">
@@ -338,6 +341,15 @@
     </ClCompile>
     <ClCompile Include="SQL\Basic Join.cpp">
       <Filter>Source Files\SQL</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Graphs\Roads and Libraries v1.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Graphs</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Graphs\Roads and Libraries v2.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Graphs</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Graphs\Find the nearest clone.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Graphs</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
