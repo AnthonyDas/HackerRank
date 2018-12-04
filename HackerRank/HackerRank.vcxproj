@@ -130,6 +130,8 @@
     <ClCompile Include="Interview Preparation Kit\Dynamic Programming\Candies.cpp" />
     <ClCompile Include="Interview Preparation Kit\Dynamic Programming\Decibinary Numbers.cpp" />
     <ClCompile Include="Interview Preparation Kit\Dynamic Programming\Max Array Sum.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Graphs\BFS - Shortest Reach in a Graph.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Graphs\DFS - Connected Cell in a Grid.cpp" />
     <ClCompile Include="Interview Preparation Kit\Graphs\Find the nearest clone.cpp" />
     <ClCompile Include="Interview Preparation Kit\Graphs\Roads and Libraries v1.cpp" />
     <ClCompile Include="Interview Preparation Kit\Graphs\Roads and Libraries v2.cpp" />
@@ -173,6 +175,8 @@
     <ClCompile Include="Interview Preparation Kit\Warm-up Challenges\Repeated String.cpp" />
     <ClCompile Include="Interview Preparation Kit\Warm-up Challenges\Sock Merchant.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Breadth First Search - Shortest Reach.cpp" />
+    <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Kruskal (MST) - Really Special Subtree.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Warmup\Birthday Cake Candles.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Warmup\Compare the Triplets.cpp" />

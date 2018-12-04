@@ -85,6 +85,9 @@
     <Filter Include="Source Files\Interview Preparation Kit\Graphs">
       <UniqueIdentifier>{2bb88ef9-61f8-4a26-add9-ead81fd4d03e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Problem Solving\Algorithms\Graph Theory">
+      <UniqueIdentifier>{55f912b8-c2cf-4a4d-b3e9-6691f100ea13}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp">
@@ -350,6 +353,18 @@
     </ClCompile>
     <ClCompile Include="Interview Preparation Kit\Graphs\Find the nearest clone.cpp">
       <Filter>Source Files\Interview Preparation Kit\Graphs</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Graphs\DFS - Connected Cell in a Grid.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Graphs</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Graphs\BFS - Shortest Reach in a Graph.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Graphs</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Breadth First Search - Shortest Reach.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Graph Theory</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Kruskal (MST) - Really Special Subtree.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Graph Theory</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

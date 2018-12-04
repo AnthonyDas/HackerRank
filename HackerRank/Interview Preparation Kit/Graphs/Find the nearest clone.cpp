@@ -1,4 +1,5 @@
 #include <vector>
+#include <queue>
 #include <unordered_set>
 
 int findShortest(const int &graph_nodes, const std::vector<int> &graph_from,
@@ -21,13 +22,13 @@ int findShortest(const int &graph_nodes, const std::vector<int> &graph_from,
 	// We don't need to run any Dijkstra’s to completion, because we can
 	// return as soon as one finds a path between two nodes with target id.
 
-	std::vector<std::unordered_set<int> > nodes_visiting; // Current nodes visiting
+	std::vector<std::queue<int> > nodes_visiting; // Current nodes visiting
 	std::vector<std::unordered_set<int> > nodes_visited; // Visited nodes
 
 	// Find the nodes with the target id
 	for (int i = 0; i < ids.size(); ++i) {
 		if (ids[i] == target_id) {
-			nodes_visiting.emplace_back(std::unordered_set<int>({ i }));
+			nodes_visiting.emplace_back(std::queue<int>({ i }));
 			nodes_visited.emplace_back(std::unordered_set<int>({ i }));
 		}
 	}
@@ -39,18 +40,23 @@ int findShortest(const int &graph_nodes, const std::vector<int> &graph_from,
 
 	int steps = 0;
 
-	while (steps < (graph_nodes - 1)) {
+	bool finished = false;
+	while (!finished) {
+		finished = true;
+
 		for (int i = 0; i < nodes_visiting.size(); ++i) { // For each Dijkstra
-			std::unordered_set<int> next_visiting;
 
 			// For each node we are currently visiting, find the adjacent nodes
-			for (auto &visiting : nodes_visiting[i]) {
-
+			int queue_size = (int)nodes_visiting[i].size();
+			while (queue_size--) {
+				const int &visiting = nodes_visiting[i].front();
 				for (auto &next : adj_nodes[visiting]) {
-					// If we have not previsouly visited it, add it to next_visiting
+					// If we have not previsouly visited next, add it to the queue
 					if (nodes_visited[i].find(next) == nodes_visited[i].end()) {
-						next_visiting.insert(next);
+						nodes_visiting[i].push(next);
 						nodes_visited[i].insert(next);
+
+						finished = false;
 
 						// If the next node has target id, then we have found the shorted path
 						if (ids[next] == target_id) {
@@ -58,10 +64,10 @@ int findShortest(const int &graph_nodes, const std::vector<int> &graph_from,
 						}
 					}
 				}
-			}
 
-			// Replace nodes_visiting[i]
-			nodes_visiting[i].swap(next_visiting);
+				// Finished visiting front node
+				nodes_visiting[i].pop();
+			}
 		}
 
 		++steps;
