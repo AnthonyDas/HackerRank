@@ -51,7 +51,7 @@ int findShortest(const int &graph_nodes, const std::vector<int> &graph_from,
 			while (queue_size--) {
 				const int &visiting = nodes_visiting[i].front();
 				for (auto &next : adj_nodes[visiting]) {
-					// If we have not previsouly visited next, add it to the queue
+					// If we have not previously visited next, add it to the queue
 					if (nodes_visited[i].find(next) == nodes_visited[i].end()) {
 						nodes_visiting[i].push(next);
 						nodes_visited[i].insert(next);

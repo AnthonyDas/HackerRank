@@ -88,6 +88,9 @@
     <Filter Include="Source Files\Problem Solving\Algorithms\Graph Theory">
       <UniqueIdentifier>{55f912b8-c2cf-4a4d-b3e9-6691f100ea13}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Problem Solving\Algorithms\Greedy">
+      <UniqueIdentifier>{0fb9c32d-8d29-4c6d-855e-4d77237f7d55}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp">
@@ -365,6 +368,15 @@
     </ClCompile>
     <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Kruskal (MST) - Really Special Subtree.cpp">
       <Filter>Source Files\Problem Solving\Algorithms\Graph Theory</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Snakes and Ladders - The Quickest Way Up.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Graph Theory</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Dijkstra - Shortest Reach 2.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Graph Theory</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Greedy\Cloudy Day.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Greedy</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

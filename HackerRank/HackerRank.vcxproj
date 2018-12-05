@@ -176,7 +176,10 @@
     <ClCompile Include="Interview Preparation Kit\Warm-up Challenges\Sock Merchant.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Breadth First Search - Shortest Reach.cpp" />
+    <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Dijkstra - Shortest Reach 2.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Kruskal (MST) - Really Special Subtree.cpp" />
+    <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Snakes and Ladders - The Quickest Way Up.cpp" />
+    <ClCompile Include="Problem Solving\Algorithms\Greedy\Cloudy Day.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Warmup\Birthday Cake Candles.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Warmup\Compare the Triplets.cpp" />

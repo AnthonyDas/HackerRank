@@ -34,7 +34,7 @@ std::vector<int> bfs(const int &nodes, const int &m, const std::vector<std::vect
 		while (queue_size--) {
 			const int &visiting = nodes_visiting.front();
 			for (auto &next : adj_nodes[visiting]) {
-				// If we have not previsouly visited next, add it to the queue
+				// If we have not previously visited next, add it to the queue
 				if (nodes_visited.find(next) == nodes_visited.end()) {
 					nodes_visiting.push(next);
 					nodes_visited.insert(next);
