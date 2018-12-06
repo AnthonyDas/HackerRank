@@ -378,6 +378,45 @@
     <ClCompile Include="Problem Solving\Algorithms\Greedy\Cloudy Day.cpp">
       <Filter>Source Files\Problem Solving\Algorithms\Greedy</Filter>
     </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Greedy\Team Formation.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Greedy\Minimum Absolute Difference in an Array.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Greedy\Marc%27s Cakewalk.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Greedy\Grid Challenge.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Greedy\Luck Balance.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Greedy\Maximum Perimeter Triangle.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Greedy\Beautiful Pairs.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Greedy\Sherlock and The Beast.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Greedy\Priyanka and Toys.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Greedy\Mark and Toys.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Greedy\Reverse Shuffle Merge.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Greedy\Goodland Electricity.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Greedy\Chief Hopper.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Greedy</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="swap.h">
