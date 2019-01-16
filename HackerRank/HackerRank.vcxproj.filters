@@ -91,6 +91,9 @@
     <Filter Include="Source Files\Problem Solving\Algorithms\Greedy">
       <UniqueIdentifier>{0fb9c32d-8d29-4c6d-855e-4d77237f7d55}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Problem Solving\Algorithms\Implementation">
+      <UniqueIdentifier>{4485a02d-3ee1-4223-9298-0677cbae93cd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp">
@@ -416,6 +419,63 @@
     </ClCompile>
     <ClCompile Include="Problem Solving\Algorithms\Greedy\Chief Hopper.cpp">
       <Filter>Source Files\Problem Solving\Algorithms\Greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Roads and Libraries.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Graph Theory</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\ACM ICPC Team.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Chocolate Feast.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Cut the sticks.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Day 0 - Hello, World.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Encryption.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Find Digits.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Flatland Space Stations.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Lisa%27s Workbook.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Modified Kaprekar Numbers.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Taum and B%27day.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\The Time in Words.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Grading Students.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Apple and Orange.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Kangaroo.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Between Two Sets.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Breaking the Records.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Birthday Chocolate.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Divisible Sum Pairs.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
