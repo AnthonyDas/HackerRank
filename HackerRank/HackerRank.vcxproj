@@ -202,6 +202,7 @@
     <ClCompile Include="Problem Solving\Algorithms\Implementation\Chocolate Feast.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Implementation\Cut the sticks.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Implementation\Day 0 - Hello, World.cpp" />
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Day of the Programmer.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Implementation\Divisible Sum Pairs.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Implementation\Encryption.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Implementation\Find Digits.cpp" />
@@ -209,6 +210,7 @@
     <ClCompile Include="Problem Solving\Algorithms\Implementation\Grading Students.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Implementation\Kangaroo.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Implementation\Lisa%27s Workbook.cpp" />
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Migratory Birds.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Implementation\Modified Kaprekar Numbers.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Implementation\Taum and B%27day.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Implementation\The Time in Words.cpp" />
@@ -229,6 +231,8 @@
     <ClCompile Include="Problem Solving\Data Structures\Arrays\Left Rotation.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Arrays\Sparse Arrays.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Heap\QHEAP1.cpp" />
+    <ClCompile Include="Problem Solving\Data Structures\Queues\Castle on the Grid.cpp" />
+    <ClCompile Include="Problem Solving\Data Structures\Queues\Down to Zero II.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Trees\Binary Search Tree - Insertion.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Trees\Is This a Binary Search Tree.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Trees\Swap Nodes [Algo].cpp" />

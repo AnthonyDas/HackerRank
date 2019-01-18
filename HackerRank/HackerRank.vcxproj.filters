@@ -94,6 +94,9 @@
     <Filter Include="Source Files\Problem Solving\Algorithms\Implementation">
       <UniqueIdentifier>{4485a02d-3ee1-4223-9298-0677cbae93cd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Problem Solving\Data Structures\Queues">
+      <UniqueIdentifier>{7bbd8792-77df-4d34-b204-f5e588dd0ca5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp">
@@ -476,6 +479,18 @@
     </ClCompile>
     <ClCompile Include="Problem Solving\Algorithms\Implementation\Divisible Sum Pairs.cpp">
       <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Migratory Birds.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Day of the Programmer.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Queues\Castle on the Grid.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Queues</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Queues\Down to Zero II.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Queues</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
