@@ -2,6 +2,7 @@
 #include <queue>
 #include "Node.h"
 
+// Breadth first search
 void levelOrder(Node * root) {
 	if (root == nullptr) {
 		return;
@@ -22,7 +23,7 @@ void levelOrder(Node * root) {
 			q.push(q.front()->right);
 		}
 
-		// Front fully processed - so remove
+		// Front fully processed - remove
 		q.pop();
 	}
 }

@@ -97,6 +97,9 @@
     <Filter Include="Source Files\Problem Solving\Data Structures\Queues">
       <UniqueIdentifier>{7bbd8792-77df-4d34-b204-f5e588dd0ca5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Problem Solving\Data Structures\Stacks">
+      <UniqueIdentifier>{5b2f7b2c-1e3d-44ba-8699-63edb3e81248}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp">
@@ -491,6 +494,15 @@
     </ClCompile>
     <ClCompile Include="Problem Solving\Data Structures\Queues\Down to Zero II.cpp">
       <Filter>Source Files\Problem Solving\Data Structures\Queues</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Heap\Jesse and Cookies.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Heap</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Data Structures\Stacks\Poisonous Plants.cpp">
+      <Filter>Source Files\Problem Solving\Data Structures\Stacks</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Matrix.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Graph Theory</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

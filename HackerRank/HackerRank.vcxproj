@@ -178,6 +178,7 @@
     <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Breadth First Search - Shortest Reach.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Dijkstra - Shortest Reach 2.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Kruskal (MST) - Really Special Subtree.cpp" />
+    <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Matrix.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Roads and Libraries.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Snakes and Ladders - The Quickest Way Up.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Greedy\Beautiful Pairs.cpp" />
@@ -230,9 +231,11 @@
     <ClCompile Include="Problem Solving\Data Structures\Arrays\Dynamic Array.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Arrays\Left Rotation.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Arrays\Sparse Arrays.cpp" />
+    <ClCompile Include="Problem Solving\Data Structures\Heap\Jesse and Cookies.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Heap\QHEAP1.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Queues\Castle on the Grid.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Queues\Down to Zero II.cpp" />
+    <ClCompile Include="Problem Solving\Data Structures\Stacks\Poisonous Plants.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Trees\Binary Search Tree - Insertion.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Trees\Is This a Binary Search Tree.cpp" />
     <ClCompile Include="Problem Solving\Data Structures\Trees\Swap Nodes [Algo].cpp" />
