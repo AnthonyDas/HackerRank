@@ -22,7 +22,6 @@ std::vector<int> bfs(const int &nodes, const int &m, const std::vector<std::vect
 	distances[start - 1] = 0; // Start has zero distance
 
 	std::queue<int> nodes_visiting({ start - 1 }); // Current nodes visiting
-	std::unordered_set<int> nodes_visited({ start - 1 }); // Visited nodes
 
 	int steps = 0;
 
@@ -35,9 +34,8 @@ std::vector<int> bfs(const int &nodes, const int &m, const std::vector<std::vect
 			const int &visiting = nodes_visiting.front();
 			for (auto &next : adj_nodes[visiting]) {
 				// If we have not previously visited next, add it to the queue
-				if (nodes_visited.find(next) == nodes_visited.end()) {
+				if (distances[next] == -1) {
 					nodes_visiting.push(next);
-					nodes_visited.insert(next);
 
 					// Update the distances
 					distances[next] = (steps + 1) * step_size;

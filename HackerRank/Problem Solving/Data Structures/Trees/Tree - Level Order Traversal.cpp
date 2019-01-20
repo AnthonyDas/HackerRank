@@ -8,8 +8,7 @@ void levelOrder(Node * root) {
 		return;
 	}
 
-	std::queue<Node *> q;
-	q.push(root);
+	std::queue<Node *> q({ root });
 
 	while (!q.empty()) {
 		// Print front current value
