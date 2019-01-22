@@ -100,6 +100,9 @@
     <Filter Include="Source Files\Problem Solving\Data Structures\Stacks">
       <UniqueIdentifier>{5b2f7b2c-1e3d-44ba-8699-63edb3e81248}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Interview Preparation Kit\Miscellaneous">
+      <UniqueIdentifier>{aac7f16d-cc64-4047-b34a-73dff22a9e96}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp">
@@ -503,6 +506,21 @@
     </ClCompile>
     <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Matrix.cpp">
       <Filter>Source Files\Problem Solving\Algorithms\Graph Theory</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Miscellaneous\Time Complexity - Primality.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Miscellaneous</Filter>
+    </ClCompile>
+    <ClCompile Include="Interview Preparation Kit\Miscellaneous\Flipping bits.cpp">
+      <Filter>Source Files\Interview Preparation Kit\Miscellaneous</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Prim%27s (MST) - Special Subtree.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Graph Theory</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Floyd - City of Blinding Lights.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Graph Theory</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Queen%27s Attack II.cpp">
+      <Filter>Source Files\Problem Solving\Algorithms\Implementation</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

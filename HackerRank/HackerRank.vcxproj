@@ -145,6 +145,8 @@
     <ClCompile Include="Interview Preparation Kit\Linked Lists\Inserting a Node Into a Sorted Doubly Linked List.cpp" />
     <ClCompile Include="Interview Preparation Kit\Linked Lists\Linked Lists - Detect a Cycle.cpp" />
     <ClCompile Include="Interview Preparation Kit\Linked Lists\Reverse a doubly linked list.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Miscellaneous\Flipping bits.cpp" />
+    <ClCompile Include="Interview Preparation Kit\Miscellaneous\Time Complexity - Primality.cpp" />
     <ClCompile Include="Interview Preparation Kit\Recursion and Backtracking\Crossword Puzzle.cpp" />
     <ClCompile Include="Interview Preparation Kit\Recursion and Backtracking\Recursion - Davis%27 Staircase.cpp" />
     <ClCompile Include="Interview Preparation Kit\Recursion and Backtracking\Recursion - Fibonacci Numbers.cpp" />
@@ -177,8 +179,10 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Breadth First Search - Shortest Reach.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Dijkstra - Shortest Reach 2.cpp" />
+    <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Floyd - City of Blinding Lights.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Kruskal (MST) - Really Special Subtree.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Matrix.cpp" />
+    <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Prim%27s (MST) - Special Subtree.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Roads and Libraries.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Graph Theory\Snakes and Ladders - The Quickest Way Up.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Greedy\Beautiful Pairs.cpp" />
@@ -213,6 +217,7 @@
     <ClCompile Include="Problem Solving\Algorithms\Implementation\Lisa%27s Workbook.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Implementation\Migratory Birds.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Implementation\Modified Kaprekar Numbers.cpp" />
+    <ClCompile Include="Problem Solving\Algorithms\Implementation\Queen%27s Attack II.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Implementation\Taum and B%27day.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Implementation\The Time in Words.cpp" />
     <ClCompile Include="Problem Solving\Algorithms\Warmup\A Very Big Sum.cpp" />
